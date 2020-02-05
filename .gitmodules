@@ -1,0 +1,6 @@
+[submodule "api"]
+	path = api
+	url = https://github.com/mvciekzvbek/express-rest-blog-api.git
+[submodule "app"]
+	path = app
+	url = https://github.com/mvciekzvbek/react-rest-blog-app.git
